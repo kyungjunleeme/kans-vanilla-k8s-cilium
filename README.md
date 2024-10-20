@@ -40,3 +40,4 @@ $ kc get pods -A
 # VM 삭제
 ❯ vagrant destory -f
 ```
+![k8s와 cilium 설치 후 k8s 구성 정보](https://github.com/icebreaker70/kans-vanilla-k8s-cilium/blob/main/vanilla-k8s-cilium.png)
