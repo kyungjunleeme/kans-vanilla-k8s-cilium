@@ -25,7 +25,7 @@ testpc                    running (vmware_desktop)
 ❯ vagrant ssh k8s-w2
 ❯ vagrant ssh testpc
 
-# K3s Cluster 확인
+# K8s Cluster 확인
 ❯ vagrant ssh k8s-s
 $ kc cluster-info      # kc는 kubectl 실행 내용을 Color로 보여주는 Tool의 Alias
 $ kc get nodes -o wide
